@@ -1,0 +1,20 @@
+header
+{
+    color: rgb(221, 20, 221);
+    font-size: "24";
+    font: "Arial" 
+
+}
+
+aside
+{
+    width: 250px;
+    height: 300px;
+
+}
+footer
+{
+    color: rgb(221, 20, 221);
+    font-size: "30";
+    font: "Arial " 
+}
